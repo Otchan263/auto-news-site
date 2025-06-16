@@ -1,6 +1,0 @@
-your-repo/
-├── .github/
-│ └─ workflows/
-│    └─ daily-update.yaml
-├── generate_site.py
-├── requirements.txt
